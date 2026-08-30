@@ -1,5 +1,5 @@
 # awesome-jank
-A list of awesome jank projects.
+A curated list of awesome jank projects. Anything with a ![jank commons](https://img.shields.io/badge/commons-green) badge is an official package in the [jank commons](https://github.com/jank-lang/commons) repository.
 
 ## Libraries
 ### Graphics and windowing
