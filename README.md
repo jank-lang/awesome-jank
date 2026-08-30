@@ -17,7 +17,10 @@ A curated list of awesome jank projects. Anything with a ![jank commons](https:/
 ### Databases
 * [sqlite3-sys](https://github.com/jank-lang/commons/tree/main/sqlite3-sys) ![jank commons](https://img.shields.io/badge/commons-green) - Raw package for sqlite3
 
-### Terminal UIs
+### Graphical UIs (GUIs)
+* [https://github.com/kylc/jank-slint](jank-slint) - Bindings to the Slint GUI toolkit for jank
+
+### Terminal UIs (TUIs)
 * [ftxui-sys](https://github.com/jank-lang/commons/tree/main/ftxui-sys) ![jank commons](https://img.shields.io/badge/commons-green) - Raw package for FTXUI
 
 ## Development tooling
