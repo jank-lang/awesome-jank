@@ -18,6 +18,7 @@ A curated list of awesome jank projects. Anything with a ![jank commons](https:/
 * [sqlite3-sys](https://github.com/jank-lang/commons/tree/main/sqlite3-sys) ![jank commons](https://img.shields.io/badge/commons-green) - Raw package for sqlite3
 
 ### Graphical UIs (GUIs)
+* [raygui-sys](https://github.com/jank-lang/commons/tree/main/raygui-sys) ![jank commons](https://img.shields.io/badge/commons-green) - Raw package for raygui
 * [jank-slint](https://github.com/kylc/jank-slint) - Bindings to the Slint GUI toolkit for jank
 
 ### Terminal UIs (TUIs)
