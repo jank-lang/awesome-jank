@@ -23,6 +23,7 @@ A curated list of awesome jank projects. Anything with a ![jank commons](https:/
 
 ### Terminal UIs (TUIs)
 * [ftxui-sys](https://github.com/jank-lang/commons/tree/main/ftxui-sys) ![jank commons](https://img.shields.io/badge/commons-green) - Raw package for FTXUI
+* [minitui](https://github.com/kylc/minitui) - Create terminal user interfaces in jank
 
 ### Web routing
 * [ruuter](https://git.nmm.ee/asko/ruuter) - A zero-dependency, runtime-agnostic router
