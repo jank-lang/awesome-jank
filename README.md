@@ -14,6 +14,9 @@ A curated list of awesome jank projects. Anything with a ![jank commons](https:/
 * [box2d-sys](https://github.com/jank-lang/commons/tree/main/box2d-sys) ![jank commons](https://img.shields.io/badge/commons-green) - Raw package for box2d
 * [box3d-sys](https://github.com/jank-lang/commons/tree/main/box3d-sys) ![jank commons](https://img.shields.io/badge/commons-green) - Raw package for box3d
 
+### General math
+* [glm-sys](https://github.com/jank-lang/commons/tree/main/glm-sys) ![jank commons](https://img.shields.io/badge/commons-green) - Raw package for glm
+
 ### Databases
 * [sqlite3-sys](https://github.com/jank-lang/commons/tree/main/sqlite3-sys) ![jank commons](https://img.shields.io/badge/commons-green) - Raw package for sqlite3
 
@@ -24,6 +27,7 @@ A curated list of awesome jank projects. Anything with a ![jank commons](https:/
 ### Terminal UIs (TUIs)
 * [ftxui-sys](https://github.com/jank-lang/commons/tree/main/ftxui-sys) ![jank commons](https://img.shields.io/badge/commons-green) - Raw package for FTXUI
 * [minitui](https://github.com/kylc/minitui) - Create terminal user interfaces in jank
+* [ncurses-sys](https://github.com/jank-lang/commons/tree/main/ncurses-sys) ![jank commons](https://img.shields.io/badge/commons-green) - Raw package for ncurses
 
 ### Web routing
 * [ruuter](https://git.nmm.ee/asko/ruuter) - A zero-dependency, runtime-agnostic router
