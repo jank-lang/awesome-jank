@@ -29,6 +29,9 @@ A curated list of awesome jank projects. Anything with a ![jank commons](https:/
 * [minitui](https://github.com/kylc/minitui) - Create terminal user interfaces in jank
 * [ncurses-sys](https://github.com/jank-lang/commons/tree/main/ncurses-sys) ![jank commons](https://img.shields.io/badge/commons-green) - Raw package for ncurses
 
+### HTTP client/server
+* [cpp-httplib-sys](https://github.com/jank-lang/commons/tree/main/cpp-httplib-sys) ![jank commons](https://img.shields.io/badge/commons-green) - Raw package for cpp-httplib
+
 ### Web routing
 * [ruuter](https://git.nmm.ee/asko/ruuter) - A zero-dependency, runtime-agnostic router
 
