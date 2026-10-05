@@ -5,6 +5,7 @@ A curated list of awesome jank projects. Anything with a ![jank commons](https:/
 ### Graphics and windowing
 * [sdl-sys](https://github.com/jank-lang/commons/tree/main/sdl-sys) ![jank commons](https://img.shields.io/badge/commons-green) - Raw package for SDL
 * [glfw-sys](https://github.com/jank-lang/commons/tree/main/glfw-sys) ![jank commons](https://img.shields.io/badge/commons-green) - Raw package for GLFW
+* [imgui-jank](https://github.com/kylc/jank-imgui) - High level API for creating ImGUIs in jank
 * [imgui-sys](https://github.com/jank-lang/commons/tree/main/imgui-sys) ![jank commons](https://img.shields.io/badge/commons-green) - Raw package for Dear ImGUI
 * [imgui-glfw-sys](https://github.com/jank-lang/commons/tree/main/imgui-glfw-sys) ![jank commons](https://img.shields.io/badge/commons-green) - Raw package for Dear ImGUI GLFW platform backend
 * [imgui-opengl2-sys](https://github.com/jank-lang/commons/tree/main/imgui-opengl2-sys) ![jank commons](https://img.shields.io/badge/commons-green) - Raw package for Dear ImGUI OpenGL2 renderer backend
