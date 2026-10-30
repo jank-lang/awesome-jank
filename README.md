@@ -12,6 +12,9 @@ A curated list of awesome jank projects. Anything with a ![jank commons](https:/
 * [raylib-sys](https://github.com/jank-lang/commons/tree/main/raylib-sys) ![jank commons](https://img.shields.io/badge/commons-green) - Raw package for raylib
 * [gl-sys](https://github.com/jank-lang/commons/tree/main/gl-sys) ![jank commons](https://img.shields.io/badge/commons-green) - Raw package for OpenGL
 
+### 3D rendering
+* [r3d-sys](https://github.com/jank-lang/commons/tree/main/r3d-sys) ![jank commons](https://img.shields.io/badge/commons-green) - Raw package for [r3d](https://github.com/Bigfoot71/r3d), the 3D extension for raylib
+
 ### Physics engines
 * [box2d-sys](https://github.com/jank-lang/commons/tree/main/box2d-sys) ![jank commons](https://img.shields.io/badge/commons-green) - Raw package for box2d
 * [box3d-sys](https://github.com/jank-lang/commons/tree/main/box3d-sys) ![jank commons](https://img.shields.io/badge/commons-green) - Raw package for box3d
